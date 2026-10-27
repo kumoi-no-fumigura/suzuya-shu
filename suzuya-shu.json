@@ -6,7 +6,12 @@
  "category": "私家集",
  "kind": "kashu",
  "author": "本居宣長",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸時代後期",
+  "author": "本居宣長",
+  "desc": "国学者本居宣長の家集。"
+ },
  "editions": [
   {
    "pid": "993381",
